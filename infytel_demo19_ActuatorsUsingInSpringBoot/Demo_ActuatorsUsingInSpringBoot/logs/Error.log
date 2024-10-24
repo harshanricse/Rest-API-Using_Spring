@@ -1,0 +1,107 @@
+2024-01-24 01:10:22 [http-nio-8083-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-24 01:10:22 [http-nio-8083-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-24 01:10:22 [http-nio-8083-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-01-24 01:13:29 [main] INFO  com.infy.Application - Starting Application using Java 17.0.7 with PID 49556 (C:\Users\golla.jayaprakash\Desktop\demo_Actuators0.2\target\classes started by golla.jayaprakash in C:\Users\golla.jayaprakash\Desktop\demo_Actuators0.2)
+2024-01-24 01:13:29 [main] INFO  com.infy.Application - No active profile set, falling back to 1 default profile: "default"
+2024-01-24 01:13:32 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2024-01-24 01:13:32 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-24 01:13:32 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-01-24 01:13:32 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-24 01:13:32 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2601 ms
+2024-01-24 01:13:33 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2024-01-24 01:13:33 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path ''
+2024-01-24 01:13:33 [main] INFO  com.infy.Application - Started Application in 4.665 seconds (process running for 6.438)
+2024-01-24 01:13:33 [main] INFO  com.infy.Application - Customer enrolled to plan successfully
+2024-01-24 01:13:48 [http-nio-8083-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-24 01:13:48 [http-nio-8083-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-24 01:13:48 [http-nio-8083-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-01-24 01:27:42 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - Starting DemoActuatorsUsingInSpringBootApplication using Java 17.0.7 with PID 43112 (C:\Users\golla.jayaprakash\Desktop\Demo_ActuatorsUsingInSpringBoot\target\classes started by golla.jayaprakash in C:\Users\golla.jayaprakash\Desktop\Demo_ActuatorsUsingInSpringBoot)
+2024-01-24 01:27:42 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-24 01:27:45 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2024-01-24 01:27:45 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-24 01:27:45 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-01-24 01:27:45 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-24 01:27:45 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2885 ms
+2024-01-24 01:27:46 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2024-01-24 01:27:47 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path ''
+2024-01-24 01:27:47 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - Started DemoActuatorsUsingInSpringBootApplication in 5.461 seconds (process running for 7.288)
+2024-01-24 01:27:47 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - Customer enrolled to plan successfully
+2024-01-24 01:28:11 [http-nio-8083-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-24 01:28:11 [http-nio-8083-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-24 01:28:11 [http-nio-8083-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-24 01:29:38 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - Starting DemoActuatorsUsingInSpringBootApplication using Java 17.0.7 with PID 12176 (C:\Users\golla.jayaprakash\Desktop\Demo_ActuatorsUsingInSpringBoot\target\classes started by golla.jayaprakash in C:\Users\golla.jayaprakash\Desktop\Demo_ActuatorsUsingInSpringBoot)
+2024-01-24 01:29:38 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-24 01:29:41 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2024-01-24 01:29:41 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-24 01:29:41 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-01-24 01:29:41 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-24 01:29:41 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2921 ms
+2024-01-24 01:29:42 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2024-01-24 01:29:42 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path ''
+2024-01-24 01:29:42 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - Started DemoActuatorsUsingInSpringBootApplication in 5.264 seconds (process running for 7.126)
+2024-01-24 01:29:42 [main] ERROR com.infy.service.Customer - Customer not registered. Pls try again.
+com.infy.exception.InfyTelException: Customer not registered. Pls try again.
+	at com.infy.service.Customer.register(Customer.java:21)
+	at com.infy.DemoActuatorsUsingInSpringBootApplication.run(DemoActuatorsUsingInSpringBootApplication.java:26)
+	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
+	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
+	at org.springframework.util.function.ThrowingConsumer.accept(ThrowingConsumer.java:60)
+	at org.springframework.util.function.ThrowingConsumer$1.accept(ThrowingConsumer.java:88)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:798)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:789)
+	at org.springframework.boot.SpringApplication.lambda$callRunners$3(SpringApplication.java:774)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base/java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:357)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:510)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:774)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:341)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at com.infy.DemoActuatorsUsingInSpringBootApplication.main(DemoActuatorsUsingInSpringBootApplication.java:21)
+2024-01-24 01:29:42 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-01-24 01:29:42 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.lambda$callRunner$6(SpringApplication.java:797)
+	at org.springframework.util.function.ThrowingConsumer.accept(ThrowingConsumer.java:66)
+	at org.springframework.util.function.ThrowingConsumer$1.accept(ThrowingConsumer.java:88)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:798)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:789)
+	at org.springframework.boot.SpringApplication.lambda$callRunners$3(SpringApplication.java:774)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base/java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:357)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:510)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:774)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:341)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at com.infy.DemoActuatorsUsingInSpringBootApplication.main(DemoActuatorsUsingInSpringBootApplication.java:21)
+Caused by: com.infy.exception.InfyTelException: Customer not registered. Pls try again.
+	at com.infy.service.Customer.register(Customer.java:21)
+	at com.infy.DemoActuatorsUsingInSpringBootApplication.run(DemoActuatorsUsingInSpringBootApplication.java:26)
+	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
+	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
+	at org.springframework.util.function.ThrowingConsumer.accept(ThrowingConsumer.java:60)
+	... 17 common frames omitted
+2024-01-24 01:30:58 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - Starting DemoActuatorsUsingInSpringBootApplication using Java 17.0.7 with PID 17904 (C:\Users\golla.jayaprakash\Desktop\Demo_ActuatorsUsingInSpringBoot\target\classes started by golla.jayaprakash in C:\Users\golla.jayaprakash\Desktop\Demo_ActuatorsUsingInSpringBoot)
+2024-01-24 01:30:58 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-24 01:31:01 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8083 (http)
+2024-01-24 01:31:01 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-24 01:31:01 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-01-24 01:31:01 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-24 01:31:01 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3055 ms
+2024-01-24 01:31:03 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoint(s) beneath base path '/actuator'
+2024-01-24 01:31:03 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8083 (http) with context path ''
+2024-01-24 01:31:03 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - Started DemoActuatorsUsingInSpringBootApplication in 5.585 seconds (process running for 7.48)
+2024-01-24 01:31:03 [main] INFO  c.i.DemoActuatorsUsingInSpringBootApplication - Customer enrolled to plan successfully

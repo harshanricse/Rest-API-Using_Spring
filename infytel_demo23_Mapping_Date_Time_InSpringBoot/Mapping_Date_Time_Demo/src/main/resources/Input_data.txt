@@ -1,0 +1,65 @@
+//Mapping of date and Time
+
+You can use these for giving the json text in post man while inserting the customer
+{
+    "emailId": "jack@infy.com",
+    "name": "Jack",
+    "dateOfBirth": "2011-06-07",
+    "simActivatedDateTime": "2024-02-15T12:30:00",
+    "subscriptionExpiredTime": "2024-04-15T12:30:00"
+}
+
+
+{
+    "emailId": "martin@infy.com",
+    "name": "Martin",
+    "dateOfBirth": "2001-06-07",
+    "simActivatedDateTime": "2024-01-10T12:30:00",
+    "subscriptionExpiredTime": "2024-03-15T12:30:00"
+}
+
+
+
+{
+    "emailId": "robert@infy.com",
+    "name": "Robert",
+    "dateOfBirth": "2002-04-08",
+    "simActivatedDateTime": "2024-04-15T12:30:00",
+    "subscriptionExpiredTime": "2024-06-15T12:30:00"
+}
+
+
+
+{
+    "emailId": "lisa@infy.com",
+    "name": "Lisa",
+    "dateOfBirth": "2015-09-07",
+    "simActivatedDateTime": "2024-05-15T12:30:00",
+    "subscriptionExpiredTime": "2024-08-15T12:30:00"
+}
+
+
+{
+    "emailId": "sam@infy.com",
+    "name": "Sam",
+    "dateOfBirth": "2016-09-07",
+    "simActivatedDateTime": "2024-08-15T12:30:00",
+    "subscriptionExpiredTime": "2024-10-15T12:30:00"
+}
+
+
+{
+    "emailId": "chay@infy.com",
+    "name": "Chay",
+    "dateOfBirth": "2001-08-10",
+    "simActivatedDateTime": "2024-04-18T12:30:00",
+    "subscriptionExpiredTime": "2024-05-15T12:30:00"
+}
+
+{
+    "emailId": "sidd@infy.com",
+    "name": "Sidd",
+    "dateOfBirth": "2001-02-24",
+    "simActivatedDateTime": "2024-02-15T12:30:00",
+    "subscriptionExpiredTime": "2024-06-15T12:30:00"
+}
